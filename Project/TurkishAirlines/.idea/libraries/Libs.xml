@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Libs/javax.mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Libs/ucanaccess-4.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Libs/jackcess-2.1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Libs/hsqldb-2.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Libs/commons-lang-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Libs/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Libs/gson-2.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

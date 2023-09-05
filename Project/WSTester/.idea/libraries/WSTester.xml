@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="WSTester">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/WSTester.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
