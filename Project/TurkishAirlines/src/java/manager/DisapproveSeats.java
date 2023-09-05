@@ -18,7 +18,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author MuhammadHarris
+ * @author Yash Radadiya
  */
 public class DisapproveSeats extends HttpServlet {
 

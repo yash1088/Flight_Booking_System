@@ -8,7 +8,7 @@ package models;
 
 /**
  *
- * @author MuhammadHarris
+ * @author Yash Radadiya
  */
 public abstract class Person {
  

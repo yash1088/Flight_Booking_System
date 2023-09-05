@@ -12,7 +12,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author MuhammadHarris
+ * @author Yash Radadiya
  */
 public class Seat {
     

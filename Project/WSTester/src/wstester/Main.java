@@ -10,7 +10,7 @@ import webservices.PriceAndSeats_Service;
 
 /**
  *
- * @author MuhammadHarris
+ * @author Yash Radadiya
  */
 public class Main {
 

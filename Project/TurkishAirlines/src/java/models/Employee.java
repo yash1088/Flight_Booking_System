@@ -7,7 +7,7 @@ package models;
 
 /**
  *
- * @author MuhammadHarris
+ * @author Yash Radadiya
  */
 public class Employee extends Person {
     

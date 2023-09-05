@@ -2,6 +2,45 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/C:/Users/Yash/Documents/NetBeansProjects/Flight-Booking-System/Project/TurkishAirlines/src/java/LogoutManager.java</file>
+            <file>file:/C:/Users/Yash/Documents/NetBeansProjects/Flight-Booking-System/Project/TurkishAirlines/src/java/manager/DisapproveFeatures.java</file>
+            <file>file:/C:/Users/Yash/Documents/NetBeansProjects/Flight-Booking-System/Project/TurkishAirlines/web/WEB-INF/Login.jsp</file>
+            <file>file:/C:/Users/Yash/Documents/NetBeansProjects/Flight-Booking-System/Project/TurkishAirlines/src/java/manager/DisapproveSeats.java</file>
+            <file>file:/C:/Users/Yash/Documents/NetBeansProjects/Flight-Booking-System/Project/TurkishAirlines/src/java/LoginManager.java</file>
+            <file>file:/C:/Users/Yash/Documents/NetBeansProjects/Flight-Booking-System/Project/TurkishAirlines/src/java/manager/ApproveFeatures.java</file>
+            <file>file:/C:/Users/Yash/Documents/NetBeansProjects/Flight-Booking-System/Project/TurkishAirlines/web/assets/autocompleter.js</file>
+            <file>file:/C:/Users/Yash/Documents/NetBeansProjects/Flight-Booking-System/Project/TurkishAirlines/src/java/customer/SearchFlights.java</file>
+            <file>file:/C:/Users/Yash/Documents/NetBeansProjects/Flight-Booking-System/Project/TurkishAirlines/src/java/models/Features.java</file>
+            <file>file:/C:/Users/Yash/Documents/NetBeansProjects/Flight-Booking-System/Project/TurkishAirlines/src/java/OriginCompleter.java</file>
+            <file>file:/C:/Users/Yash/Documents/NetBeansProjects/Flight-Booking-System/Project/TurkishAirlines/web/ShowItinery.jsp</file>
+            <file>file:/C:/Users/Yash/Documents/NetBeansProjects/Flight-Booking-System/Project/TurkishAirlines/web/assets/css/bootstrap.min.css</file>
+            <file>file:/C:/Users/Yash/Documents/NetBeansProjects/Flight-Booking-System/Project/TurkishAirlines/src/java/models/Seat.java</file>
+            <file>file:/C:/Users/Yash/Documents/NetBeansProjects/Flight-Booking-System/Project/TurkishAirlines/src/java/webservices/PriceAndSeats.java</file>
+            <file>file:/C:/Users/Yash/Documents/NetBeansProjects/Flight-Booking-System/Project/TurkishAirlines/web/Templates/Footer.jsp</file>
+            <file>file:/C:/Users/Yash/Documents/NetBeansProjects/Flight-Booking-System/Project/TurkishAirlines/src/java/customer/CurrentBooking.java</file>
+            <file>file:/C:/Users/Yash/Documents/NetBeansProjects/Flight-Booking-System/Project/TurkishAirlines/web/CurrentBooking.jsp</file>
+            <file>file:/C:/Users/Yash/Documents/NetBeansProjects/Flight-Booking-System/Project/TurkishAirlines/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Yash/Documents/NetBeansProjects/Flight-Booking-System/Project/TurkishAirlines/src/java/admin/ChangeFeatures.java</file>
+            <file>file:/C:/Users/Yash/Documents/NetBeansProjects/Flight-Booking-System/Project/TurkishAirlines/src/java/models/Employee.java</file>
+            <file>file:/C:/Users/Yash/Documents/NetBeansProjects/Flight-Booking-System/Project/TurkishAirlines/src/java/models/Person.java</file>
+            <file>file:/C:/Users/Yash/Documents/NetBeansProjects/Flight-Booking-System/Project/TurkishAirlines/src/java/models/FBS.java</file>
+            <file>file:/C:/Users/Yash/Documents/NetBeansProjects/Flight-Booking-System/Project/TurkishAirlines/src/java/filters/SecurityFilter.java</file>
+            <file>file:/C:/Users/Yash/Documents/NetBeansProjects/Flight-Booking-System/Project/TurkishAirlines/web/META-INF/context.xml</file>
+            <file>file:/C:/Users/Yash/Documents/NetBeansProjects/Flight-Booking-System/Project/TurkishAirlines/web/Templates/AdminHeader.jsp</file>
+            <file>file:/C:/Users/Yash/Documents/NetBeansProjects/Flight-Booking-System/Project/TurkishAirlines/src/java/customer/ChooseFlight.java</file>
+            <file>file:/C:/Users/Yash/Documents/NetBeansProjects/Flight-Booking-System/Project/TurkishAirlines/src/java/CustomerManager.java</file>
+            <file>file:/C:/Users/Yash/Documents/NetBeansProjects/Flight-Booking-System/Project/TurkishAirlines/src/java/filters/XSSRequestWrapper.java</file>
+            <file>file:/C:/Users/Yash/Documents/NetBeansProjects/Flight-Booking-System/Project/TurkishAirlines/src/java/filters/XSSFilter.java</file>
+            <file>file:/C:/Users/Yash/Documents/NetBeansProjects/Flight-Booking-System/Project/TurkishAirlines/src/java/models/Flight.java</file>
+            <file>file:/C:/Users/Yash/Documents/NetBeansProjects/Flight-Booking-System/Project/TurkishAirlines/src/java/customer/BookFlight.java</file>
+            <file>file:/C:/Users/Yash/Documents/NetBeansProjects/Flight-Booking-System/Project/TurkishAirlines/web/ApproveSeats.jsp</file>
+            <file>file:/C:/Users/Yash/Documents/NetBeansProjects/Flight-Booking-System/Project/TurkishAirlines/src/java/manager/ApproveSeats.java</file>
+            <file>file:/C:/Users/Yash/Documents/NetBeansProjects/Flight-Booking-System/Project/TurkishAirlines/src/java/admin/SetSeats.java</file>
+            <file>file:/C:/Users/Yash/Documents/NetBeansProjects/Flight-Booking-System/Project/TurkishAirlines/src/java/models/Customer.java</file>
+            <file>file:/C:/Users/Yash/Documents/NetBeansProjects/Flight-Booking-System/Project/TurkishAirlines/web/assets/img/dashboard.jpg</file>
+            <file>file:/C:/Users/Yash/Documents/NetBeansProjects/Flight-Booking-System/Project/TurkishAirlines/web/ApproveFeatures.jsp</file>
+            <file>file:/C:/Users/Yash/Documents/NetBeansProjects/Flight-Booking-System/Project/TurkishAirlines/src/java/SContextListener.java</file>
+        </group>
     </open-files>
 </project-private>

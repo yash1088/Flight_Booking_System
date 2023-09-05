@@ -17,7 +17,7 @@ import javax.servlet.http.HttpSession;
 
 /**
  *
- * @author MuhammadHarris
+ * @author Yash Radadiya
  */
 public class CustomerManager extends HttpServlet {
 
